@@ -123,7 +123,7 @@ const Header = () => {
               </Link>
             </div>
             <div className="header-col-2"> 
-              <img src="/images/headerImage.png" alt="Featured Product" className="header-image" />
+              <img src="/images/headerImage2.png" alt="Featured Product" className="header-image" />
             </div>
           </div>
         )}
