@@ -53,7 +53,7 @@ const AccountPage: React.FC = () => {
       <div className="container">
         <div className="row">
           <div className="col-2">
-            <img src="/images/headerImage.png" alt="Featured" />
+            <img src="/images/headerImage2.png" alt="Featured" />
           </div>
           <div className="col-2">
             <div className="form-container">
